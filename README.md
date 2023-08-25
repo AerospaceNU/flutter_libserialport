@@ -9,7 +9,6 @@ Supported platforms:
 - Linux
 - macOS
 - Windows
-- Android
 
 ## Usage
 
